@@ -1,0 +1,4 @@
+streamlit==1.17.0
+ccxt==3.1.36
+pandas==1.5.3
+playsound==1.2.2
